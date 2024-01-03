@@ -1,0 +1,47 @@
+#n
+{
+    width: 1600px;
+    height: 100px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+#btn
+{
+    background-color: bisque;
+    font-size: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 200px;
+    width: 50px;
+    height: 20px;
+    margin-top: 300px;
+}
+
+#b
+{
+    width: 300px;
+    height: 400px;
+    display: inline-flex;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+
+#fo
+{
+    margin-top: 200px;
+    display:flex;
+}
+
+#br
+{
+    margin-right: 200px;
+}
+#co
+{
+    margin-left:300px ;
+}
+#ac
+{
+    margin-left: 400px;
+}

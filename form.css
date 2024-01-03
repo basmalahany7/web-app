@@ -1,0 +1,13 @@
+#con
+{
+    border: 3px solid black;
+    text-align: center;
+    margin-left: 200px;
+}
+
+#btnn
+{
+    background-color: bisque;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

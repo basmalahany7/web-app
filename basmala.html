@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="basmala.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+</head>
+<body>
+<div id="container">
+<div>
+<h1>Sign_UP Form</h1>
+</div>
+<div>
+<label>Username</label>
+<input type="text" placeholder="username" id="uname"><br><br>
+</div>
+<div>
+<label>Password</label>
+<input type="password" placeholder="password" id="pass"><br><br>
+</div>
+<div>
+<label>Age</label>
+<input type="number" placeholder="age" id="age" min="18" max="60"><br><br>
+</div>
+<div>
+<label>Gender</label><br><br>
+<input type="radio" name="gender">Female
+<input type="radio" name="gender">Male
+</div>
+<div>
+<label>Phone Number</label>
+<input type="tel" placeholder="phone number" id="phone"><br><br>
+</div>
+<div>
+<label>Confirm pass</label>
+<input type="password" placeholder="confirm pass" id="cpass"><br><br>
+</div>
+<div>
+<button onclick="signup()" id="btn">Submit</button>
+</div>
+</div>
+<div id="contain">
+    <div>
+    <h1>Login Form</h1>
+    </div>
+    <div>
+    <labe>Username</labe>
+    <input type="text" placeholder="username" id="uname"><br><br>
+    </div>
+    <div>
+        <labe>Password</labe>
+        <input type="password" placeholder="password" id="pass"><br><br>
+        </div>
+        <div>
+        <button onclick="login() ">Login</button><br><br>
+        </div>
+         <div>
+        <button onclick="window.location='#forget'">Forget password</button><br><br>
+        </div>
+        <div>
+        <button onclick="window.location='#container'">Signup</button>
+        </div>
+</div>
+
+<div id="forget">
+    <div>
+    <h1>Forget password</h1>
+    </div>
+    <div>
+    <label>User name</label>
+    <input type="text" placeholder="username" id="uname"><br><br>
+    </div>
+    <div>
+    <label>Newpassword</label>
+    <input type="password" placeholder="New pass" id="npass"><br><br>
+    </div>
+    <div>
+    <button onclick="forgetpass()">Update</button>
+    </div>
+</div>
+<script src="basmala.js"></script>
+</body>
+</html>

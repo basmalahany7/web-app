@@ -1,0 +1,262 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
+#bro
+{
+    text-align: center;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#broducts
+{
+   border: 3px solid black;
+   width: 200px;
+   justify-content: space-between;
+   text-align: center;
+   margin-left: 250px;
+}
+
+#p1
+{
+    width: 200px;
+    height: 100px;
+}
+
+#nn
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#p2
+{
+    width: 200px;
+    height: 100px;
+}
+
+#clothes
+{
+    border: 3px solid black;
+    width: 700px;
+    height: 450px;
+}
+
+#i
+{
+    display: flex;
+}
+#dd
+{
+    font-size: 20px;
+    width: 100px;
+    margin-left: 70px;
+}
+#mm
+{
+    font-size: 15px;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+#i
+{
+    display: flex;
+}
+
+#n
+{
+    display: flex;
+}
+
+#sumarry
+{
+    border: 3px solid black;
+    width: 300px;
+    height: 400px;
+    margin-left: 900px;
+    margin-bottom: 200px;
+    margin-top: -300px;
+}
+#sss
+{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#b3
+{
+    width: 200px;
+    height: 100px; 
+}
+
+#b4
+{
+    width: 200px;
+    height: 100px;
+}
+#b3
+{
+    width: 200px;
+    height: 100px;
+}
+#b7
+{
+    width: 200px;
+    height: 100px;
+}
+#b9
+{
+    width: 200px;
+    height: 100px;
+}
+#b5
+{
+    width: 200px;
+    height: 100px;
+}
+
+#Shoes
+{
+    border: 3px solid black;
+    width: 700px;
+    height: 550px; 
+
+}
+#ww
+{
+    font-size: 20px;
+    margin-left: 300px;
+
+}
+#qq
+{
+    font-size: 15px;
+    margin-left: 400px;
+    
+}
+#jj
+{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+#jjj
+{
+    margin-left: 200px;
+    margin-top: -90px;
+}
+
+#zz
+{
+    font-size: 20px;
+    margin-left: 300px; 
+}
+#cc
+{
+    font-size: 15px;
+    margin-left: 400px;
+}
+
+
+#Bags
+{
+    border: 3px solid black;
+    width: 700px;
+    height: 550px; 
+
+}
+#gg
+{
+    font-size: 20px;
+    margin-left: 300px;
+
+}
+#q
+{
+    font-size: 15px;
+    margin-left: 400px;
+    
+}
+#www
+{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+#jjj
+{
+    margin-left: 200px;
+    margin-top: -90px;
+}
+
+#zz
+{
+    font-size: 20px;
+    margin-left: 300px; 
+}
+#cc
+{
+    font-size: 15px;
+    margin-left: 400px;
+}
+
+#jjjj
+{
+    margin-left: 200px;
+    margin-top: -50px; 
+}
+
+#zzz
+{
+    font-size: 20px;
+    margin-left: 300px;  
+}
+
+#ccc
+{
+    font-size: 15px;
+    margin-left: 400px;
+}
+
+
+
+#Watches
+{
+    border: 3px solid black;
+    width: 700px;
+    height: 550px; 
+}
+#nnnnnn
+{
+    margin-left: 200px;
+    margin-top: -50px; 
+}
+
+#wwwwww
+{
+    font-size: 20px;
+    margin-left: 300px;  
+}
+#qqqq
+{
+    font-size: 15px;
+    margin-left: 400px;
+}
+#llllll
+{
+    margin-left: 200px;
+    margin-top: -50px; 
+}
+#zzzzz
+{
+    font-size: 20px;
+    margin-left: 300px; 
+}
+#ccccccc
+{
+    font-size: 15px;
+    margin-left: 400px;
+}
